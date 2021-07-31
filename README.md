@@ -27,8 +27,6 @@ Non-Functional Requirments :
 ## Our WireFrame  : 
 ### Main Page
 ![Main Page](Home-WireFrame.png)
-### 
 ![hotel book](book-new-trip.png)
-###
 ![Main Page](your-Trips.png)
 
